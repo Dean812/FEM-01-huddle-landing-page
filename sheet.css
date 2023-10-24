@@ -3,3 +3,31 @@
     box-sizing: border-box;
     text-align: center;
 }
+
+/*police-fonts*/
+header>button {
+    font-family: 'Poppins', sans-serif;
+}
+/*  body           
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+.freeTrial {
+    background-color: hsl(322, 100%, 66%);
+}
+.freeTrial:hover {
+    background-color: hsl(321, 100%, 78%);
+}
+
+/*
+@media (width > 375px) { 
+    h1 {
+        color : red;
+    }
+}
+@media (width > 1440px) { 
+    h1 {
+        color : blue;
+    }
+}
+*/
